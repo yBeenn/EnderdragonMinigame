@@ -1,0 +1,13 @@
+name: EnderDragons
+load: STARTUP
+version: 1.0
+main: de.Bn.pack.Main
+
+commands:
+   reset:
+     description: resete die welt!
+   start:
+     description: Starte es!
+   test:
+     description: test!
+   
